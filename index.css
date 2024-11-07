@@ -1,0 +1,31 @@
+multi-selector {
+    display: flex;
+    margin: 0 0px 0px 0;
+    box-sizing: inherit;
+  }
+
+multi-selector > input {
+    width: 10px;
+}
+
+label {
+  display: block;
+  margin: 0 20px 20px 0;
+}
+
+.select2-results__options {
+  font-size:10px !important;
+}
+
+.select2-selection__rendered {
+  font-size: 10px !important;
+}
+
+.noUi-connect {
+  background: #eaaa00 !important;
+}
+
+/* .connect-color {
+  background: #eaaa00 !important;
+  background-color: #eaaa00 !important;
+} */
